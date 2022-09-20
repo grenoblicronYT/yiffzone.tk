@@ -1,0 +1,16 @@
+Features too add
+- List of kinks, species, and other
+- profile
+ - Name/pseudonym, manage kinks and all
+- chat system
+ - Secure chat with recovery and connexion loss fixes
+  - when the user is offline the message is stored in the server like always and then delivered to the other user
+- chat private
+ - Like in discord, because it is a great exemple
+- chat rooms (publics and/or private)
+ - Like in discord again but with personnal changes we will se later
+- friend, I GOT FRIENDS
+ - One problem with yiffspot, no way to remember people so i add that, the next thing is related to this
+- privacy settings
+ - still want to be anonymous, don't worry we got you, customize what people can see, for exemple random people will just see a 'USER' tag to say you can receive friend request and more, friend will be able to see your username and a pfp, maybe. 
+ - Note that everyone can see kinks, spiecies and basic informations like if you are 18 years old.

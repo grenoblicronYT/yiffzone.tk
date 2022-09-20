@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "exvu.json5",
+        "mrmlnc.vscode-json5",
+        "kiteco.kite",
+        "mutable-ai.mutable-ai",
+        "idered.npm",
+        "TabNine.tabnine-vscode"
+    ]
+}
